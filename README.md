@@ -16,13 +16,13 @@ This web portfolio showcases my skills, projects. It serves as a personal brand 
 - **JavaScript**: For interactive elements
 
 ## Live Demo
-You can view the live demo of this portfolio at: [Live Demo](paste link here!)  
+You can view the live demo of this portfolio at: [Live Demo](https://mswjason01-del.github.io/portfolio-website/)  
 
 ## Local Setup
 To set up this project locally, follow these steps:
 1. Clone the repository:
    ```
-   git clone ,link here
+   git clone https://mswjason01-del.github.io/portfolio-website/
    ```
 2. Navigate into the project directory:
    ```
