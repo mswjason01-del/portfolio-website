@@ -1,7 +1,7 @@
-# Web Portfolio
+# Portfolio Website
 
 ## Project Overview
-This web portfolio showcases my skills, projects. It serves as a personal brand and helps potential employers understand my capabilities and projects in one place.
+This portfolio website showcases my skills, projects. It serves as a personal brand and helps potential employers understand my capabilities and projects in one place.
 
 ## Features
 - Responsive design for all devices
